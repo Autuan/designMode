@@ -1,4 +1,4 @@
-package CreationPattern;
+package CreationPattern.SingletonPattern;
 
 /**
  * 创建型模式
